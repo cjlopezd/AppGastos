@@ -1,0 +1,5 @@
+{
+  "name": "GastosApp - Control Familiar",
+  "description": "Aplicación de gestión de gastos familiares enfocada en seguimiento de categorías específicas como hijos, hogar y gustos. Incluye reportes mensuales impulsados por IA.",
+  "requestFramePermissions": []
+}
